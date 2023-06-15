@@ -4,10 +4,10 @@ The Zombie Knight game is a thrilling platform-based action game where players n
 
 ## Features
 
-Exciting combat mechanics: Players can attack using the knight's sword.
-Enemies: Face zombies that increase in number and difficulty.
-Animation: Beautiful animations for the characters and portals.
-Portals: Use portals to navigate and escape from challenging situations.
+- Combat mechanics: Players can attack using the knight's sword.
+- Enemies: Face zombies that increase in number and difficulty.
+- Animation: Animations for the characters and portals.
+- Portals: Use portals to navigate and escape from challenging situations.
 
 ## Installation
 
