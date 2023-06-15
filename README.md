@@ -22,8 +22,8 @@ pip install pygame
 - Clone the repository
 
 ```
-git clone https://github.com/your-username/zombie-knight-game.git
-cd zombie-knight-game
+git clone https://github.com/EPW80/Zombie-Knight
+cd Zombie-Knight
 ```
 
 - Run the game
@@ -37,6 +37,16 @@ python knight.py
 - Use the arrow keys to move the knight.
 - Press the Space bar to make the knight jump.
 - Press the Up arrow key to make the knight attack.
+
+## Extra features used to format
+
+```
+pip install black
+```
+
+```
+pip instyall pylint
+```
 
 ## Demo
 
